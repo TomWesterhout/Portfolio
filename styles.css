@@ -47,11 +47,10 @@ time, mark, audio, video {
 	.wrapper {
 		display: flex;
 		justify-content: center;
-		background-color: #314757;
 	}
 	
 	.content {
-		width: 90vw;
+		width: 100vw;
 		min-height: 100vh;
 		display: flex;
 		flex-direction: column;
@@ -60,15 +59,11 @@ time, mark, audio, video {
 		padding-bottom: 5vh;
 	}
 	
-	.content div {
-		margin-top: 5vh;
-		margin-bottom: 5vh;
-	}
-	
 	.title {
-		width: 90vw;
+		width: 100vw;
 		display: flex;
 		justify-content: center;
+		background-color: #FF2E30;
 	}
 	
 	.img {
